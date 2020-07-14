@@ -4,12 +4,12 @@ date: '2020-07-13T23:23:00.242Z'
 template: 'post'
 draft: false
 slug: 'coding-resources'
-category: 'Web Development'
+category: 'Resources'
 tags:
   - 'Web Development'
   - 'JavaScript'
   - 'Tutorials'
-description: 'A collection of my favorite coding resources.'
+description: 'A collection of my favorite coding websites, podcasts, blogs, and YouTube channels.'
 ---
 
 - [Free coding websites](#free-coding-websites)
