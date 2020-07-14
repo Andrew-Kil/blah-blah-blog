@@ -1,9 +1,9 @@
 ---
-title: Improve Your Web Pages With Lighthouse Audits
+title: How To Improve Your Web Pages With Lighthouse Audits
 date: '2020-07-07T15:00:38.189Z'
 template: 'post'
 draft: false
-slug: 'improve-your-web-pages-with-lighthouse-audits'
+slug: 'how-to-improve-your-web-pages-with-lighthouse-audits'
 category: 'Web Development'
 tags:
   - 'Web Development'
